@@ -41,6 +41,7 @@ Just to make sure, in case you're confused at this point, the test is telling yo
 This is what the final function should look like:
 ```javascript
 const helloWorld = function() {
+  // The expected output as per the test case is 'Hello, World!'
   return 'Hello, World!'
 }
 
